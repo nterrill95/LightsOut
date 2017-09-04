@@ -1,0 +1,10 @@
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.csprojResolveAssemblyReference.cache
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.MainForm.resources
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.Cache
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.exe
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
+c:\users\narc\documents\visual studio 2015\Projects\LightsOut\LightsOut\obj\Debug\LightsOut.AboutForm.resources
